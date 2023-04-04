@@ -1,7 +1,15 @@
 <resources>
-    <string name="app_name">tiendaApp</string>
-    <string name="login">Login</string>
-    <string name="password">Password</string>
-    <string name="registro">Registro</string>
-    <string name="nombreUsuario">Nombre Usuario</string>
+    <string name="app_name">ListApp</string>
+    <string name="iniciar_sesi_n">Iniciar Sesión</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="not_yet_registered_signup_now">Not yet registered? SignUp Now</string>
+    <string name="presupuesto">Presupuesto</string>
+    <string name="planificar_compras">Planificar compras</string>
+    <string name="compras">Compras</string>
+    <string name="qu_desea_realizar">¿Qué desea realizar?</string>
+    <string name="registro_compras">Registro compras</string>
+    <string name="lista_compras">Lista compras</string>
+    <string name="volver">Volver</string>
 </resources>
